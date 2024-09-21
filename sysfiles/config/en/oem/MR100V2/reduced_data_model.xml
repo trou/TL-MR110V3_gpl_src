@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<InternetGatewayDevice t=o r=P s=IGD_OBJ >
+	<DeviceInfo t=o r=P s=IGD_DEV_INFO_OBJ >
+		<ModelName t=s r=R l=64 d="TL-MR100" />
+		<Description t=s r=R l=256 d="300Mbps Wireless N 4G LTE Router" />
+		<AdditionalHardwareVersion t=s r=R l=64 d=00000002 />
+		<X_TP_DevModelVersion t=s r=R d=2.0 nw=1 h=1 />
+		<X_TP_SpecialVersion t=u r=R d=0x45550000 nw=1 h=1 />
+		<X_TP_PlatformVersion t=u r=R d=0xa5000901 nw=1 h=1 />
+		<X_TP_HardwareID t=s r=R l=33 al=nae d=00000000000000000000000000000000 nw=1 h=1 />
+		<X_TP_FirmwareID t=s r=R l=33 al=cli d=00000000000000000000000000000000 nw=1 h=1 />
+		<X_TP_OemID t=s r=R l=33 al=nae d=00000000000000000000000000000000 nw=1 h=1 />
+	</DeviceInfo>
+</InternetGatewayDevice>
